@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Zh-China"
 title                    : "Runze's homepage"
 title_separator          : "-"
 name                     : &name "Runze Zheng"
@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Hangzhou Dianzi \n University"
+  employer         : "Hangzhou Dianzi \n\n University"
+
   uri              : # URL
   email            : "runzewuyu@hdu.edu.cn" 
 
@@ -48,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
